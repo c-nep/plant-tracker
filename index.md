@@ -3,8 +3,8 @@
 Prof. Ellen Do**  
   
 ### Group Members  
-    Caitlin Neppl | cane5265@colorado.edu  
-    David Gelagay | dage6339@colorado.edu
+   Caitlin Neppl | cane5265@colorado.edu  
+   David Gelagay | dage6339@colorado.edu
     
 ### Group Project Files
 1. <a href="https://c-nep.github.io/plant-tracker/Group 1 - project-proposal.docx" title="Project Proposal">Project Proposal</a>
