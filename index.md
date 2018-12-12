@@ -2,7 +2,7 @@
 ## A Plant Growth Tracker App
 **CSCI 3002: Human-Centered Interaction  
 Prof. Ellen Do  
-Group Members** 
+Group Members**   
     Caitlin Neppl | cane5265@colorado.edu  
     David Gelagay | dage6339@colorado.edu
 
