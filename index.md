@@ -1,13 +1,12 @@
-# GreenThumb
-## A Plant Growth Tracker App
+# A Plant Growth Tracker App
 **CSCI 3002: Human-Centered Interaction  
 Prof. Ellen Do**  
   
-**Group Members**   
+### Group Members  
     Caitlin Neppl | cane5265@colorado.edu  
     David Gelagay | dage6339@colorado.edu
 
-
+<a href="https://c-nep.github.io/plant-tracker/Group 1 - project-proposal.docx" title="Project Proposal">Project Proposal</a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
