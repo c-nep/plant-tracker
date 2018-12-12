@@ -1,5 +1,5 @@
 # A Plant Growth Tracker App
-**CSCI 3002: Human-Centered Interaction  
+**CSCI 3002: Human-Computer Interaction  
 Prof. Ellen Do**  
   
 ### Group Members  
