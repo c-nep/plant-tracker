@@ -7,19 +7,20 @@ Prof. Ellen Do**
    David Gelagay | dage6339@colorado.edu
     
 ### Group Project Writeup Files
-1. <a href="https://c-nep.github.io/plant-tracker/Group 1 - project-proposal.docx" title="Project Proposal">Project Proposal</a>
+1. [Project Proposal](/Group 1 - project-proposal.docx)
 
-2. <a href="https://c-nep.github.io/plant-tracker/Group 2 - Project Plan.docx" title="Project Plan">Project Plan</a>
+2. [Project Plan](/Group 2 - Project Plan.docx)
 
-3. <a href="https://c-nep.github.io/plant-tracker/Group 3 - Design Research.docx" title="Design Research">Design Research</a>
+3. [Design Research](/Group 3 - Design Research.docx)
 
-4. <a href="https://c-nep.github.io/plant-tracker/Group 4_ Paper Prototype.docx" title="Paper Prototype">Paper Prototype</a>
+4. [Paper Prototype](/Group 4_ Paper Prototype.docx)
 
-5. <a href="https://c-nep.github.io/plant-tracker/Group 5 - Usability Testing & Heuristic Evaluation.docx" title="Usability Testing & Heuristic Evaluation">Usability Testing & Heuristic Evaluation</a>
+5. [Usability Testing & Heuristic Evaluation](/Group 5 - Usability Testing & Heuristic Evaluation.docx)
 
-6. <a href="https://c-nep.github.io/plant-tracker/Group 6 - Final Prototype & Storyboard.docx" title="Final Prototype & Storyboard">Final Prototype & Storyboard</a>
+6. [Final Prototype Writeup](/Group 6 - Final Prototype & Storyboard.docx)
 
 7. PUT THE FILE IN MY DUDe<a href="https://c-nep.github.io/plant-tracker/storyboard.pdf" title="Storyboard">Storyboard</a>
+[Storyboard]()
 
 ### Figma Prototype
 
