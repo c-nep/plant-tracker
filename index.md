@@ -19,42 +19,10 @@ Prof. Ellen Do**
 
 6. <a href="https://c-nep.github.io/plant-tracker/Group 6 - Final Prototype & Storyboard.docx" title="Final Prototype & Storyboard">Final Prototype & Storyboard</a>
 
-test test test tes tesestesets
-[link to group 1](/Group 1 - project-proposal.docx)
-[link to group 2](/plant-tracker/Group 2 - Project Plan.docx)
+7. PUT THE FILE IN MY DUDe<a href="https://c-nep.github.io/plant-tracker/storyboard.pdf" title="Storyboard">Storyboard</a>
 
 ### Figma Prototype
 
 [Final Prototype](https://www.figma.com/file/GHg7dNoEevBnxgugeBt4UWit/Final-Prototype?node-id=0%3A1)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c-nep/plant-tracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
