@@ -6,7 +6,7 @@ Prof. Ellen Do**
    Caitlin Neppl | cane5265@colorado.edu  
    David Gelagay | dage6339@colorado.edu
     
-### Group Project Files
+### Group Project Writeup Files
 1. <a href="https://c-nep.github.io/plant-tracker/Group 1 - project-proposal.docx" title="Project Proposal">Project Proposal</a>
 
 2. <a href="https://c-nep.github.io/plant-tracker/Group 2 - Project Plan.docx" title="Project Plan">Project Plan</a>
@@ -18,6 +18,14 @@ Prof. Ellen Do**
 5. <a href="https://c-nep.github.io/plant-tracker/Group 5 - Usability Testing & Heuristic Evaluation.docx" title="Usability Testing & Heuristic Evaluation">Usability Testing & Heuristic Evaluation</a>
 
 6. <a href="https://c-nep.github.io/plant-tracker/Group 6 - Final Prototype & Storyboard.docx" title="Final Prototype & Storyboard">Final Prototype & Storyboard</a>
+
+test test test tes tesestesets
+[link to group 1](/Group 1 - project-proposal.docx)
+[link to group 2](/plant-tracker/Group 2 - Project Plan.docx)
+
+### Figma Prototype
+
+[Final Prototype](https://www.figma.com/file/GHg7dNoEevBnxgugeBt4UWit/Final-Prototype?node-id=0%3A1)
 
 ### Markdown
 
