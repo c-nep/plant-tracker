@@ -19,11 +19,11 @@ Prof. Ellen Do**
 
 6. [Final Prototype Writeup](/Group 6 - Final Prototype & Storyboard.docx)
 
-7. PUT THE FILE IN MY DUDe<a href="https://c-nep.github.io/plant-tracker/storyboard.pdf" title="Storyboard">Storyboard</a>
-[Storyboard]()
+7. [Storyboard](/hci-assignment-11 (2).pdf)
 
 ### Figma Prototype
 
 [Final Prototype](https://www.figma.com/file/GHg7dNoEevBnxgugeBt4UWit/Final-Prototype?node-id=0%3A1)
 
-
+### Video
+[View our project video on Google Drive]()
