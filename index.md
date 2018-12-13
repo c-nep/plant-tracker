@@ -5,6 +5,7 @@ Dr. Ellen Do, CU Boulder**
   
 ### Group Members  
    Caitlin Neppl | cane5265@colorado.edu  
+     
    David Gelagay | dage6339@colorado.edu
     
 ### Group Project Files
@@ -28,7 +29,9 @@ Dr. Ellen Do, CU Boulder**
 
 ### Video
 [View our project video on Google Drive](https://drive.google.com/file/d/1bzJjWZP-SThdIB7BGDVTiP4ofgo5-yuU/view?usp=sharing)  
+  
 [Or on Youtube](https://youtu.be/azRfdm4bc3w)  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/azRfdm4bc3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
