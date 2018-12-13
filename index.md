@@ -4,9 +4,9 @@ CSCI 3002: Human-Computer Interaction
 Dr. Ellen Do, CU Boulder**  
   
 ### Group Members  
-   Caitlin Neppl | cane5265@colorado.edu  
-     
-   David Gelagay | dage6339@colorado.edu
+Caitlin Neppl | cane5265@colorado.edu  
+  
+David Gelagay | dage6339@colorado.edu
     
 ### Group Project Files
 1. [Project Proposal](/Group 1 - project-proposal.docx)
