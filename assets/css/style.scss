@@ -2,11 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-
+/* p = paragraph colors - only for Group Member names - dark gray*/
 p {
-    color: red;
+    color: #595959;
 }
-
+/* all links as well as header - nice green color*/
 a {
-    color: blue;
+    color: #20c17e;
 }
