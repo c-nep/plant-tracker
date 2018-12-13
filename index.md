@@ -1,6 +1,7 @@
 # A Plant Growth Tracker App
-**CSCI 3002: Human-Computer Interaction  
-Prof. Ellen Do**  
+**Fall 2018**
+**CSCI 3002: Human-Computer Interaction**
+**Prof. Ellen Do**  
   
 ### Group Members  
    Caitlin Neppl | cane5265@colorado.edu  
@@ -26,4 +27,4 @@ Prof. Ellen Do**
 [Final Prototype](https://www.figma.com/file/GHg7dNoEevBnxgugeBt4UWit/Final-Prototype?node-id=0%3A1)
 
 ### Video
-[View our project video on Google Drive]()
+[View our project video on Google Drive](https://drive.google.com/file/d/1bzJjWZP-SThdIB7BGDVTiP4ofgo5-yuU/view?usp=sharing)
