@@ -3,17 +3,21 @@
 
 @import "{{ site.theme }}";
 
+/* things wrapped up in body are inherited unless otherwise specified - monospace font & darkish blue bg color */
+body{
 font-family: monospace;
 background-color: #61a9e8;
+}
 
-/* p = paragraph colors - only for Group Member names - dark gray*/
+/* p = paragraph colors - only for Group Member names - dark gray font color*/
 p {
     color: #595959;
 }
-/* all links as well as header - nice green color*/
+/* all links as well as header - green font color*/
 a {
     color: #20c17e;
 }
+/* when hovering over links font color darker green*/
 a:hover { 
   color: #208733;
 }
