@@ -1,7 +1,7 @@
 ## A Plant Growth Tracker App Concept
 **Fall 2018  
 CSCI 3002: Human-Computer Interaction  
-Prof. Ellen Do**  
+Dr. Ellen Do, CU Boulder**  
   
 ### Group Members  
    Caitlin Neppl | cane5265@colorado.edu  
