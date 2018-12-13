@@ -20,7 +20,7 @@ Prof. Ellen Do**
 
 6. [Final Prototype Writeup](/Group 6 - Final Prototype & Storyboard.docx)
 
-7. [Storyboard](/hci-assignment-11 (2).pdf)
+7. [Storyboard](/hci-storyboard.pdf)
 
 ### Figma Prototype
 
