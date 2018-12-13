@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 
-/* things wrapped up in body are inherited unless otherwise specified - monospace font & darkish blue bg color */
+/* things wrapped up in body are inherited unless otherwise specified - monospace font & light gray bg color */
 body{
 font-family: monospace;
-background-color: #61a9e8;
+background-color: #dbdbdb;
 }
 
 /* p = paragraph colors - only for Group Member names - dark gray font color*/
