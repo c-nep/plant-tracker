@@ -8,6 +8,7 @@ body{
 font-family: monospace;
 font-size: 15px;
 background-color: #e8e8e8;
+color: #595959;
 }
 
 title{
@@ -18,10 +19,11 @@ font-size: 30px;
 p {
     color: #595959;
 }
-/* all links as well as header - green font color*/
+/* all links as well as header - green font color
 a {
     color: #20c17e;
 }
+*/
 /* when hovering over links font color darker green*/
 a:hover { 
   color: #22ad4e;
