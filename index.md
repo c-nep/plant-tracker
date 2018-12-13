@@ -1,4 +1,4 @@
-# A Plant Growth Tracker App
+## A Plant Growth Tracker App
 **Fall 2018  
 CSCI 3002: Human-Computer Interaction  
 Prof. Ellen Do**  
