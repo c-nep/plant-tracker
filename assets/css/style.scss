@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+font-family: monospace;
+
 /* p = paragraph colors - only for Group Member names - dark gray*/
 p {
     color: #595959;
