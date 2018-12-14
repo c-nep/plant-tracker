@@ -6,7 +6,7 @@
 /* things wrapped up in body are inherited unless otherwise specified - monospace font & light gray bg color */
 body{
 font-family: monospace;
-font-size: 15px;
+font-size: 25px;
 background-color: #e8e8e8;
 
 }
@@ -18,14 +18,16 @@ font-size: 30px;
 /* p = paragraph colors - only for Group Member names - dark gray font color */
 p {
     color: #595959;
+    font-size: 15px;
 }
 
 
 /* all links as well as header - green font color*/
 a {
     color: #20c17e;
+    font-size: 15px;
 }
-*/
+
 /* when hovering over links font color darker green*/
 a:hover { 
   color: #22ad4e;
